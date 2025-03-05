@@ -17,7 +17,7 @@ This project aims to **analyze the impact of various factors on product lines, c
 
 ## Dataset
 
-The dataset used in this project includes tables located in *Mandalay*, *Yangon*, *Naypyitaw*. It contains 17 columns and 1000 rows.
+The dataset used in this project includes tables located in `Mandalay`, `Yangon`, `Naypyitaw`. It contains 17 columns and 1000 rows.
 
 ## Queries Implemented
 
